@@ -68,6 +68,9 @@ endmodule
 ![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/b4014d51f2accb8bf1c12e859616ea15f5767629/ex4aimg.jpg)
 
 
+![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/0ba3af92d061ada3fe4c26d2019f444ab60f0b4d/ex4aimg.jpg)
+
+
 
 **Output Timing Waveform**
 
