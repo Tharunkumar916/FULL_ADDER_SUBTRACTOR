@@ -74,7 +74,7 @@ Full  Adder
 Full subtractor
 
 
-![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/0ba3af92d061ada3fe4c26d2019f444ab60f0b4d/ex4aimg.jpg)
+![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/bfe10f7450d3e24731746071478b3f609352bd31/exp4b.jpg)
 
 
 
