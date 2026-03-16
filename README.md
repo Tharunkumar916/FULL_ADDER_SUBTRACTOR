@@ -43,6 +43,7 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 **Program:**
+Full adder
 ```
 module ex4a(A,B,C,sum,carry);
 input A,B,C;
@@ -51,6 +52,7 @@ assign sum=A^B^C;
 assign carry=((A&B)|(A&C)|(B&C));
 endmodule
 ```
+Full subtractor
 
 ```
 module exp4b(A,B,C,dif,bor);
@@ -65,7 +67,11 @@ endmodule
 
 **RTL Schematic**
 
+Full  Adder
+
 ![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/b4014d51f2accb8bf1c12e859616ea15f5767629/ex4aimg.jpg)
+
+Full subtractor
 
 
 ![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/0ba3af92d061ada3fe4c26d2019f444ab60f0b4d/ex4aimg.jpg)
@@ -73,8 +79,13 @@ endmodule
 
 
 **Output Timing Waveform**
+Full adder
 
 ![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/50074b078ff8736e9af42141b2da8b8026ad58fd/Screenshot%202026-03-16%20105325.png)
+
+Full subtractor
+
+![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/0c71bf395f3045c1d5644ddd97e74f58f5cf120d/Screenshot%202026-03-16%20110736.png)
 
 **Result:**
 
