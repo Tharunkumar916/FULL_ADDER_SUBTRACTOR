@@ -51,6 +51,15 @@ assign sum=A^B^C;
 assign carry=((A&B)|(A&C)|(B&C));
 endmodule
 ```
+
+```
+module exp4b(A,B,C,dif,bor);
+input A,B,C;
+output dif,bor;
+assign dif=A^B^C;
+assign bor=(~A&C)|(~A&B)|(B&C);
+endmodule
+```
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: Tharun Kumar V  RegisterNumber: 212224240173
 */
 
