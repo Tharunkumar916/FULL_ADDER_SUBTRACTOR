@@ -56,6 +56,8 @@ endmodule
 
 **RTL Schematic**
 
+![image alt](https://github.com/Tharunkumar916/FULL_ADDER_SUBTRACTOR/blob/b4014d51f2accb8bf1c12e859616ea15f5767629/ex4aimg.jpg)
+
 
 
 **Output Timing Waveform**
